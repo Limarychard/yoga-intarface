@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap') ;
+    text-decoration: none;
+}
+
+.img-yoga {
+    display: block; /* PARA FICAR SOZINHO NA LINHA */
+    margin: 195px auto 122px auto; /* margin: auto CENTRALIZA, PORÉM TEM QUE TER display: block */
+}
+
+input {
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px; /* border-radius DEIXA A BORDA MAIS ARREDONDADA */
+    border: none;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    padding-left: 19px;
+}
+
+.input-password {
+    margin-top: 21px;
+}
+
+.forgot-password {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+    margin: 35px 30px 38px 0;
+    display: block;
+    text-align: right;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    border: none;
+}
+
+.link-singup {
+    display: block;
+    margin-top: 21px;
+    margin-bottom: 62px;
+    text-align: center;
+    color: #969696;
+}
+
+strong {
+    color: #323232;
+}
+
+.or-paragraph {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    margin: 18px auto 80px auto;
+}
+
+.dots {
+    margin: 0 18px 0 18px;
+}
