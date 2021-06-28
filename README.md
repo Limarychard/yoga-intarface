@@ -1,6 +1,6 @@
 # Yoga Interface
 
-<img src="../yoga-interface/asseets/yoga-photo.jpeg" alt="logo-yoga">
+<img src="../yoga-interface/asseets/yoga-photo.jpeg" alt="logo-yoga" width="250px">
 
 > Resultado do projeto Yoga.
 
