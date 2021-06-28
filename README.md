@@ -1,27 +1,26 @@
 # Yoga Interface
 
-<img src="../yoga-interface/asseets/yoga-photo.jpeg" alt="logo-yoga" width="250px">
+<img src="./asseets/yoga-photo.jpeg" alt="logo-yoga" width="250px">
 
-> Resultado do projeto Yoga.
+> Result of the Yoga project, with login and registration screen
 
-### Ajustes e melhorias
+### Adjustments and improvements 
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and future updates will focus on the following tasks: 
 
-- [x] Criação do HTML
-- [x] Criação do CSS
-- [ ] Atualização do layout 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+- [x] HTML creation
+- [x] CSS creation 
+- [ ] JavaScript creation
+- [ ] Creatung more screens 
+## 🤝 Colaborators
 
 <table>
   <tr>
       <td aling ="center">
-        <a href="#">
-         <img src="../yoga-interface/asseets/my-photo.jpeg" width=100px alt="Foto do Rychard Lima"/> <br>
+        <a href="https://github.com/Limarychard">
+         <img src="./asseets/my-photo.jpeg" width=100px alt="Foto do Rychard Lima"/> <br>
           <sub>
-            <b> Rychard Lima </b>
+            <b> <a href="https://www.linkedin.com/in/rychard-lima-802a60210/"> Rychard Lima </a> </b>
           </sub>
         </a>
       </td>
