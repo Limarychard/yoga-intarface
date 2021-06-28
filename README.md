@@ -11,7 +11,7 @@ The project is still under development and future updates will focus on the foll
 - [x] HTML creation
 - [x] CSS creation 
 - [ ] JavaScript creation
-- [ ] Creatung more screens 
+- [ ] Creating more screens 
 ## 🤝 Colaborators
 
 <table>
