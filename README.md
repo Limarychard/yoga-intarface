@@ -1,6 +1,6 @@
 # Yoga Interface
 
-<img src="exemplo-image.png" alt="logo-yoga">
+<img src="../yoga-interface/asseets/yoga-photo.jpeg" alt="logo-yoga">
 
 > Resultado do projeto Yoga.
 
@@ -19,7 +19,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
       <td aling ="center">
         <a href="#">
-         <img src="./../../../../../Project/[CODECLUB]/[ IMAGES ]/eu.jpg" width=100px alt="Foto do Rychard Lima"/> <br>
+         <img src="../yoga-interface/asseets/my-photo.jpeg" width=100px alt="Foto do Rychard Lima"/> <br>
           <sub>
             <b> Rychard Lima </b>
           </sub>
